@@ -1,15 +1,30 @@
 # Retail Store Performance Analysis Dashboard
 
-## Project Overview
-This project provides a comprehensive analysis of retail store performance for 2024-2025. I transformed raw sales data into an interactive dashboard to help stakeholders monitor profitability and logistics efficiency.
+## 📊 Project Overview
+This project provides a comprehensive analysis of retail store performance for 2024-2025. The dashboard transforms raw sales data into interactive insights to help stakeholders monitor profitability and logistics efficiency.
 
-## Key Insights
-* **Profitability:** Analyzed Gross Profit (₹6.83L) against total Revenue (₹25.24L).
-* **Logistics:** Tracked performance across shippers like Blue Dart and Delhivery.
-* **Regional Sales:** Identified top-performing locations including Pune and Lucknow.
-* **Product Trends:** Visualized the "Top 4 Products" and sales distribution by size.
+---
 
-## Tools Used
+## 🖼️ Dashboard Preview
+![Dashboard](dashboard.png)
+
+---
+
+## 🔍 Key Insights
+- **Profitability:** Gross Profit (₹6.83L) vs Revenue (₹25.24L)
+- **Logistics:** Performance analysis of shippers like Blue Dart and Delhivery
+- **Regional Sales:** Top-performing locations include Pune and Lucknow
+- **Product Trends:** Top 4 products and size-wise sales distribution
+
+---
+
+## 🛠️ Tools Used
 * **Advanced Excel:** Pivot Tables, Power Query, and XLOOKUP.
 * **SQL:** Used for querying fact and dimension tables.
 * **Data Visualization:** Created a dynamic dashboard with slicers for months and years.
+---
+
+## 📁 Files
+- `Sales_Dashboard.xlsx` → Main dashboard file  
+- `dashboard.png` → Dashboard preview  
+- `Dashboard_Preview.pdf` → Optional preview  
