@@ -23,6 +23,6 @@ This project provides a comprehensive analysis of retail store performance for 2
 * **Data Visualization:** Created a dynamic dashboard with slicers for months and years.
 ---
 ## 📁 Files
-- [Sales-dashboard.xlsx](Sales-dashboard.xlsx) → Main dashboard file  
-- [Sales-dashboard.png](Sales-dashboard.png) → Dashboard preview  
-- [Sales-Dashboard_Preview.pdf](Sales-Dashboard_Preview.pdf) → Optional preview  
+* [Main dashboard file](Sales-dashboard.xlsx)
+* [Dashboard preview](Sales-dashboard.png)
+* [Optional preview](Sales-dashboard.pdf)
