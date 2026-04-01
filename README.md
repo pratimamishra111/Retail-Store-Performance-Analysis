@@ -22,8 +22,7 @@ This project provides a comprehensive analysis of retail store performance for 2
 * **SQL:** Used for querying fact and dimension tables.
 * **Data Visualization:** Created a dynamic dashboard with slicers for months and years.
 ---
-
 ## 📁 Files
-- [Sales-Dashboard.xlsx](Sales-Dashboard.xlsx) → Main dashboard file  
-- [Sales-dashboard.png](dashboard.png) → Dashboard preview  
-- [Sales-Dashboard_Preview.pdf](Dashboard_Preview.pdf) → Optional preview  
+- [Sales-dashboard.xlsx](Sales-dashboard.xlsx) → Main dashboard file  
+- [Sales-dashboard.png](Sales-dashboard.png) → Dashboard preview  
+- [Sales-Dashboard_Preview.pdf](Sales-Dashboard_Preview.pdf) → Optional preview  
