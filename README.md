@@ -24,6 +24,6 @@ This project provides a comprehensive analysis of retail store performance for 2
 ---
 
 ## 📁 Files
-- `Sales_Dashboard.xlsx` → Main dashboard file  
-- `dashboard.png` → Dashboard preview  
-- `Dashboard_Preview.pdf` → Optional preview  
+- [Sales_Dashboard.xlsx](Sales_Dashboard.xlsx) → Main dashboard file  
+- [dashboard.png](dashboard.png) → Dashboard preview  
+- [Dashboard_Preview.pdf](Dashboard_Preview.pdf) → Optional preview  
