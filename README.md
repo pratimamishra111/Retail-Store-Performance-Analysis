@@ -7,7 +7,6 @@ This project provides a comprehensive analysis of retail store performance for 2
 
 ## 🖼️ Dashboard Preview
 ![Dashboard](dashboard.png)
-
 ---
 
 ## 🔍 Key Insights
